@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.samle.stockwatcher.client.GreetingService
+path: FD0058C9E52098675847C8D051847BE7.gwt.rpc
